@@ -5,7 +5,7 @@ Concept concept
 public:
 	method()
 	{
-		
+
 	}
 	//virtual void call();
 };
@@ -14,7 +14,7 @@ public:
 {
 
 	std::cin >> (auto result);
-	
+
 }*/
 
 /*

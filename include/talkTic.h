@@ -26,7 +26,7 @@
 #define ifyes ) {
 #define otherwise ;}else
 #define dothis for
-#define from (auto 
+#define from (auto
 #define until ;!(
 #define forstep );
 #define then ;
@@ -51,7 +51,7 @@
 #define subroutine (
 #define always while(true
 #define forgood for(;true;
-//           ??????       
+//           ??????
 #define forparameters (
 #define passback return
 #define loop while(
